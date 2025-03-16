@@ -1,0 +1,1 @@
+Foi realizado análise de código HTML, declaração de variáveis em JavaScript para armazenar elementos da página e uso de funções como `document.getElementById()`, `value`, `parseInt`, `for`, e `push`. Também inclui o uso de estrutura condicional `if/else`, manipulação de classes com `classList`, e modificação de HTML com `innerHTML`.
